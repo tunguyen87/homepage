@@ -14,12 +14,12 @@ I obtained my Ph.D. degree in Computer Science and Engineering at the Kyung Hee 
 
 Contact
 ======
-Department: Computer Science, SEDS
-Position: Assistant Professor
-Office: 7e.426
-Email: tu.nguyen@nu.edu.kz
-Phone: + 7 (7172) 709442
-Adress: 53 Kabanbay Batyr Avenue, Nur-Sultan city, Kazakhstan
+- Department: Computer Science, SEDS
+- Position: Assistant Professor
+- Office: 7e.426
+- Email: tu.nguyen@nu.edu.kz
+- Phone: + 7 (7172) 709442
+- Adress: 53 Kabanbay Batyr Avenue, Nur-Sultan city, Kazakhstan
 
 Research Interests
 ==================
