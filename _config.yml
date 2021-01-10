@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nguyen Anh Tu"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Nguyen Anh Tu"
 description              : &description "personal description"
