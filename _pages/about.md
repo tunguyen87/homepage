@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Nguyen Anh Tu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
