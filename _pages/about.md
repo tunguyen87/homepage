@@ -30,8 +30,8 @@ Research Interests
 
 Teaching
 ========
-- CSCI 585/785: [Computer Vision](https://tunguyen87.github.io/seds-computervision/)
-- CSCI 447: [Machine learning: Theory and Practice](https://tunguyen87.github.io/seds-ml/)
+- CSCI 585/785: Computer Vision
+- CSCI 447: Machine learning: Theory and Practice
 - CSCI 390: Artificial Intelligence
 - CSCI 152: Performance and Data Structure
 - CSCI 361: Software Engineering (Fall 2019)
